@@ -11526,7 +11526,7 @@ unicode = 2122;
 },
 {
 glyphname = notequal;
-lastChange = "2012-07-01 20:32:19 +0000";
+lastChange = "2012-07-03 01:47:50 +0000";
 layers = (
 {
 layerId = "15362359-FE80-435A-AD84-B9C7E8C91034";
@@ -11535,28 +11535,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"171 825 LINE",
-"171 1007 LINE",
-"1169 1007 LINE",
-"1169 825 LINE"
+"101 825 LINE",
+"101 1007 LINE",
+"1099 1007 LINE",
+"1099 825 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"171 332 LINE",
-"171 513 LINE",
-"1169 513 LINE",
-"1169 332 LINE"
+"101 332 LINE",
+"101 513 LINE",
+"1099 513 LINE",
+"1099 332 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"142 -54 LINE",
-"564 1490 LINE",
-"773 1490 LINE",
-"355 -54 LINE"
+"282 -54 LINE",
+"704 1490 LINE",
+"913 1490 LINE",
+"495 -54 LINE"
 );
 }
 );
